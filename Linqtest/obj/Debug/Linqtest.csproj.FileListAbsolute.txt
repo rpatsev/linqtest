@@ -1,0 +1,6 @@
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\bin\Debug\Linqtest.exe.config
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\bin\Debug\Linqtest.exe
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\bin\Debug\Linqtest.pdb
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\obj\Debug\Linqtest.csprojResolveAssemblyReference.cache
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\obj\Debug\Linqtest.exe
+c:\users\patsev_r\documents\visual studio 2015\Projects\Linqtest\Linqtest\obj\Debug\Linqtest.pdb
